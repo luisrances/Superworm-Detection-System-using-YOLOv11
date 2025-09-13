@@ -1,0 +1,9 @@
+Superworms.PH.xlsx
+*.xlsx
+*.pt
+*.py
+yolov_11_custom/process/
+yolov_11_custom/weights/
+yolov_11_custom/test
+yolov_11_custom/tarin
+yolov_11_custom/valid

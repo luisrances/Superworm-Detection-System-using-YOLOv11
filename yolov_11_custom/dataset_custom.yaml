@@ -1,0 +1,5 @@
+train: C:\Users\acer\Desktop\Thesis\yolov_11_custom\train
+val: C:\Users\acer\Desktop\Thesis\yolov_11_custom\valid
+
+nc: 1
+names: ["superworms"]
